@@ -1,0 +1,19 @@
+{
+  "name": "mxcode6_cliwordcounter",
+  "version": "3.1.5",
+  "description": "A minimalist word counter project for text analysis. Interactive tool to swiftly count words in user input.",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khawaja Abdul Moiz",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
